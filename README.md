@@ -4,5 +4,7 @@ We have gathered the required data from CUSAT atmospheric department to do this 
 
 Here we have created a visualization for the movement of wind in the Indian Subcontinent from October 1st to November 17th.
 
+https://maps.google.com/maps?q=cusat&t=&z=15&ie=UTF8&iwloc=&output=embed
+
 Video URL: https://youtu.be/KFFrxVVGoaM
 
